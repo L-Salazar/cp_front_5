@@ -9,7 +9,7 @@ export const noticiasData: Noticia[] = [
         imagem: "/public/images/noticia1.jpg",
         categorias: ["Tecnologia", "Negócios"],
         comentarios: [
-            { nome: "João", texto: "Ótima notícia!" },
+            { nome: "Joãoo", texto: "Ótima notícia!" },
             { nome: "Maria", texto: "Muito informativo." }
         ]
     },
